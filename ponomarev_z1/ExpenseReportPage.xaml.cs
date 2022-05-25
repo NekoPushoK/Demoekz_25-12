@@ -16,14 +16,13 @@ using System.Windows.Shapes;
 namespace ponomarev_z1
 {
     /// <summary>
-    /// Логика взаимодействия для MainWindow.xaml
+    /// Логика взаимодействия для ExpenseReportPage.xaml
     /// </summary>
-    public partial class MainWindow : NavigationWindow
+    public partial class ExpenseReportPage : Page
     {
-        public MainWindow()
+        public ExpenseReportPage()
         {
             InitializeComponent();
         }
-
     }
 }
